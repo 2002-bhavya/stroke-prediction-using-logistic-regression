@@ -29,6 +29,9 @@ To identify individuals at higher risk of stroke and support healthcare decision
 ## Results
 The model identified significant factors associated with stroke risk and demonstrated predictive capability through ROC-AUC evaluation.
 
+## Note
+The repository contains the project report and presentation developed as part of the MSc Statistics curriculum. Source code is not included in this version.
+
 ## Author
 Bhavya Prakasam
 MSc Statistics
